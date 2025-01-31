@@ -38,6 +38,6 @@ requests: Sends API requests to AssemblyAI, translation API, and Eleven Labs.
 playsound or pydub: Plays the translated audio output.
 APIs:
 
-AssemblyAI: Converts speech input to text (speech-to-text).
-Google Translate API: Translates the text into the target language.
+AssemblyAI: Converts speech input to text (speech-to-text),
+Google Translate API: Translates the text into the target language,
 Eleven Labs: Converts translated text to speech (text-to-speech).
