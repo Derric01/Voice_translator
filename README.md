@@ -1,6 +1,6 @@
 Voice Translator Overview
 Objective
-Build a real-time voice translator using Python, AssemblyAI (speech-to-text API), and Eleven Labs (text-to-speech API) that supports translations among at least 10 languages, including Tamil, Kannada, Hindi, Telugu, Marathi, French, English, German, Spanish, and Japanese.
+Build a real-time voice translator using Python, AssemblyAI (speech-to-text API), and Eleven Labs (text-to-speech API) that supports translations among at least 10 languages, including Tamil, Kannada, Hindi, Telugu, Marathi, French, English,  Spanish, and Japanese.
 
 Project Features
 Speech Recognition:
