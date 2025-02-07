@@ -1,4 +1,4 @@
-Voice Translator Overview
+jiVoice Translator Overview
 Objective
 Build a real-time voice translator using Python, AssemblyAI (speech-to-text API), and Eleven Labs (text-to-speech API) that supports translations among at least 10 languages, including Tamil, Kannada, Hindi, Telugu, Marathi, French, English,  Spanish, and Japanese.
 
@@ -40,4 +40,4 @@ APIs:
 
 AssemblyAI: Converts speech input to text (speech-to-text),
 Google Translate API: Translates the text into the target language,
-Eleven Labs: Converts translated text to speech (text-to-speech).
+Eleven Labs: Converts translated text to speech .
