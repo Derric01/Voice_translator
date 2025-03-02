@@ -25,7 +25,7 @@ The system captures audio from the microphone (using pyaudio or speech_recogniti
 Audio data is sent to AssemblyAI for transcription.
 Processing:
 
-The transcribed text is sent to a translation API.
+The transcribed text is sent to a translation API
 The translated text is sent to Eleven Labs TTS for audio output.
 Output:
 
